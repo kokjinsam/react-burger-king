@@ -22,6 +22,7 @@ const styles = {
     border: 0,
     margin: 0,
     overflow: 'visible',
+    outline: 'none',
   },
 
   hamburgerBox: {
